@@ -1,4 +1,4 @@
-![image](https://github.com/TEDddr/XGboost-Machinelearning-framework/assets/130724106/d0463a77-24a5-4178-9efd-07c53136ec2f)# XGboost-Machinelearning-framework
+# XGboost-Machinelearning-framework
 一个集合了预测算法、优化算法的AI机器学习框架~
 本项目设计了一个结合机器学习/深度学习与优化算法的AI预测模型框架，并开发了GUI让整体操作更加简易，更容易上手。如图所示：
 (8/16更新)![image](https://github.com/TEDddr/XGboost-Machinelearning-framework/assets/130724106/ac108e6c-6f9f-49f9-93be-caa79cdedad4)
